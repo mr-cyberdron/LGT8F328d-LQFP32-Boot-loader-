@@ -12,7 +12,7 @@ To burn bootloader you need
 8) Copy boards.txt  to \ocrobot-0005-windows\hardware\avr (MAKE the BACKUP!)
 9) Replasing used because octobot dont have bootloaderfiles for aimed controller, to change board, you can change boards.txt, begining from this line "alpha8f328d.name=Ocrobot Alpha 8F328p"
 10) Open octobot, set settings: board:Ocrobot Alpha 8F328p, serial port: (arduino uno/nano) , programmer: Arduino as ISP
-11) Connect arduino to burned board due to next scheme :
+11) Connect arduino to burned board due to next scheme Better use 4.7 kOm resistor:
 ![](https://image.geek-workshop.com/forum/201604/03/110353eiiwydix7fx7aw7t.png)
 12) Choose blink scetch and try upload if all is ok go to 13 point if not, try to upload with boards.txt backup, or change parameters in this file for you board 
 for example:
