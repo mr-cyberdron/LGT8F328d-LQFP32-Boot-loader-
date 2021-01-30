@@ -28,6 +28,6 @@ into this:
 13) Reconect USB cable and click tools>burn bootloader, if something wrong go to item 10
 14) If burning OK try flash scketch from arduino IDE
 15) Have Fun
-Support autor: http://qiwi.com/p/380937122470
+16) Support autor: http://qiwi.com/p/380937122470
 
 
